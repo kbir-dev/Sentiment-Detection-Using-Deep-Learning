@@ -61,9 +61,4 @@ The model's performance metrics include:
 - Training loss
 - Validation loss
 
-(Note: Final metrics can be added once training is complete)
-
-## License
-
-This project is available under standard open-source terms.
  
